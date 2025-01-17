@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     line-height: 1.6;
-    background: linear-gradient(to bottom, #565656, #e6e6fa);
+    background: linear-gradient(to bottom, #565656,  #565656);
     color: #333;
     display: flex;
     justify-content: center;
